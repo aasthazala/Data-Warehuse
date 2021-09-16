@@ -1,19 +1,24 @@
-# Data-Warehuse
-Data-Warehouse---Advance Database Topics
+# Data-Warehouse---Advance Database Topics
 
-This project is about the implementation of Data Warehouse and performing different methodologies of data handling and warehousing.Here, we will be implementing operations like Data Cleaning, Data Filteration, defining schemas, analyzing data,constructing warehouse, OLAP operation and making Visual Grahphs for the data. 
-Data was gathered and saved in Accidents.csv file. Then the data was then transformed from a csv file to a public URL for simple access.  Data: https://www.dropbox.com/s/i4bnh4ynkoka0po/Accidents.csv?dl=1 
+This project is about the implementation of Data Warehouse and performing different methodologies of data handling and warehousing.Here, we will be implementing operations like Data Cleaning, Data Filteration, defining schemas, analyzing data,constructing warehouse, OLAP operation and making Visual Grahphs for the data.
+ 
+Data was gathered and saved in Accidents.csv file. Then the data was then transformed from a csv file to a public URL for simple access.
 
-Data Warehouse: https://www.dropbox.com/s/cxorr4gu7u9r5ge/accident_data_warehouse.sql?dl=0  PowerBI Report : https://app.powerbi.com/view?r=eyJrIjoiNWNiNTA0NWMtMDRkNy00NTdiLTg1ZDUtOGMxOTgxNjE3ZTg3IiwidCI6IjljMDE4MTUyLWE2ZDItNDQwYy1iMDZkLTA1N2U1MGEwZWMxOSJ9&amp;pageName=ReportSection 
+Data: https://www.dropbox.com/s/i4bnh4ynkoka0po/Accidents.csv?dl=1
 
-Team Members:  1.Aasthaba Zala 
-               2.Jenish Patel 
-               3.Darsh Parikh
-               
-Tools and Technologies Used:  
-Python libraries: Numpy and Pandas 
-                  Jupyter Notebook 
-                  PostgreSQL 
-                  PowerBi 
-                  Jira 
-                  GitHub
+Data Warehouse: https://www.dropbox.com/s/cxorr4gu7u9r5ge/accident_data_warehouse.sql?dl=0
+
+PowerBI Report : https://app.powerbi.com/view?r=eyJrIjoiNWNiNTA0NWMtMDRkNy00NTdiLTg1ZDUtOGMxOTgxNjE3ZTg3IiwidCI6IjljMDE4MTUyLWE2ZDItNDQwYy1iMDZkLTA1N2U1MGEwZWMxOSJ9&pageName=ReportSection
+
+Team Members:
+1) Aasthaba Zala
+2) Jenish Patel
+3) Darsh Parikh
+
+Tools and Technologies Used:
+1) Python libraries: Numpy and Pandas
+2) Jupyter Notebook
+3) PostgreSQL
+4) PowerBi 
+5) Jira
+6) GitHub
